@@ -129,3 +129,5 @@ Thread state from `traces.txt` (https://gist.github.com/and291/86d7c619204900aab
   at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1133)
   at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:607)
   at java.lang.Thread.run(Thread.java:761)
+
+![screenshot](https://github.com/and291/FacebookSdkCoreTest/blob/master/Screenshot_20200221-202129.png)
